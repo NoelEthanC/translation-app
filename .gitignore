@@ -11,7 +11,8 @@
 # next.js
 /.next/
 /out/
-
+.vscode
+.firebase-admin-credentials.json
 # production
 /build
 
